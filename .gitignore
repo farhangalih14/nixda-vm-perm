@@ -1,0 +1,81 @@
+# ========================
+# Visual Studio / IDE files
+# ========================
+.vs/                     # Visual Studio workspace settings
+*.suo                    # Solution user options
+*.user                   # User-specific project settings
+*.userosscache
+*.sln.docstates
+*.VC.db                  # Visual Studio IntelliSense database
+*.VC.VC.opendb
+
+# ========================
+# Build / Output directories
+# ========================
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+obj/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.o
+*.obj
+*.a
+*.out
+*.iobj
+*.idb
+*.ipdb
+
+# ========================
+# Temporary files
+# ========================
+*.log
+*.tmp
+*.temp
+*.pch
+*.pch.h.gch
+*.stackdump
+
+# ========================
+# OS-specific files
+# ========================
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs*
+
+# ========================
+# Other
+# ========================
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Coverage / profiling / testing
+*.gcno
+*.gcda
+*.prof
+*.dSYM/
+
+# Ignore generated documentation
+docs/html/
+docs/latex/
+
+# Package managers (optional, if using vcpkg or similar)
+vcpkg_installed/
